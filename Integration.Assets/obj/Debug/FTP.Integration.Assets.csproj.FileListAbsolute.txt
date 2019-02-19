@@ -1,0 +1,7 @@
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\Foundation.Integration.dll.config
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\Foundation.Integration.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\Foundation.Integration.pdb
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\FTP.Integration.Assets.csproj.CoreCompileInputs.cache
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\Foundation.Integration.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\Foundation.Integration.pdb
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\FTP.Integration.Assets.csprojAssemblyReference.cache

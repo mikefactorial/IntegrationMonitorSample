@@ -1,0 +1,22 @@
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\MVI Search.Plugins.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\MVI Search.Plugins.pdb
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\microsoft.xrm.sdk.workflow.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\SS.Crm.Linq.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csprojAssemblyReference.cache
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csproj.CopyComplete
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.pdb
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WillWilson\source\repos\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\MVI Search.Plugins.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\MVI Search.Plugins.pdb
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csprojAssemblyReference.cache
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.csproj.CopyComplete
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\MVI Search.Plugins.pdb

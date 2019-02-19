@@ -1,0 +1,7 @@
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\MVI Search.Assets.dll.config
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\MVI Search.Assets.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\bin\MVI Search.Assets.pdb
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\MVI Search.Assets.csprojAssemblyReference.cache
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\MVI Search.Assets.csproj.CoreCompileInputs.cache
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\MVI Search.Assets.dll
+C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Assets\obj\Debug\MVI Search.Assets.pdb
