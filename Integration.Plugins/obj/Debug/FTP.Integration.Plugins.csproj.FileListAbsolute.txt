@@ -1,9 +1,0 @@
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\FTP.Integration.Plugins.dll
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\FTP.Integration.Plugins.pdb
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.dll
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\bin\Debug\Newtonsoft.Json.xml
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\FTP.Integration.Plugins.csproj.CoreCompileInputs.cache
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\FTP.Integration.Plugins.csproj.CopyComplete
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\FTP.Integration.Plugins.dll
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\FTP.Integration.Plugins.pdb
-C:\Users\MichaelOchsMVP\Desktop\Projects\VA_PATSR\MVI Search\MVI Search.Plugins\obj\Debug\FTP.Integration.Plugins.csprojAssemblyReference.cache
